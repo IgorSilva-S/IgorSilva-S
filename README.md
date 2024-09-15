@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Igor Silva Santos 😊
 
 <!--
 **IgorSilva-S/IgorSilva-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
